@@ -1,0 +1,24 @@
+{
+    "name": "phaser-pwa",
+    "description": "A Phaser PWA",
+    "version": "0.0.0",
+    "author": "",
+    "license": "MIT",
+    "homepage": "https://github.com/koden-km/phaser-pwa#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/koden-km/phaser-pwa.git"
+    },
+    "bugs": "https://github.com/koden-km/phaser-pwa/issues",
+    "main": "index.html",
+    "dependencies": {
+        "phaser": "3.55.2"
+    },
+    "devDependencies": {
+        "http-server": "^0.11.1"
+    },
+    "scripts": {
+        "server": "node_modules/.bin/http-server",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
