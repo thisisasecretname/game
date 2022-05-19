@@ -1,15 +1,15 @@
 {
-    "name": "phaser-pwa",
+    "name": "game",
     "description": "A Phaser PWA",
     "version": "0.0.0",
     "author": "",
     "license": "MIT",
-    "homepage": "https://github.com/koden-km/phaser-pwa#readme",
+    "homepage": "https://github.com/thisisasecretname/game#readme",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/koden-km/phaser-pwa.git"
+        "url": "git+https://github.com/thisisasecretname/game.git"
     },
-    "bugs": "https://github.com/koden-km/phaser-pwa/issues",
+    "bugs": "https://github.com/thisisasecretname/game/issues",
     "main": "index.html",
     "dependencies": {
         "phaser": "3.55.2"

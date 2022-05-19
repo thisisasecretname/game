@@ -2,7 +2,7 @@
     "name": "Phaser PWA",
     "short_name": "Phaser PWA",
     "description": "Phaser template Web App.",
-    "start_url": "/phaser-pwa/",
+    "start_url": "/game/",
     "background_color": "#000000",
     "theme_color": "#0f4a73",
     "display": "standalone",
